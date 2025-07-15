@@ -23,7 +23,7 @@ My name is Donghan Fu, and I am a Ph.D. student in the [School of Information S
 
 By integrating emerging media technologies with theories from educational psychology, my work aims to address real-world challenges in science learning. I focus on identifying the difficulties learners face and exploring how generative AI can be designed to enhance both communication and educational outcomes.
 
-I hold a Ph.D. in Communication from [Beijing Normal University (BNU)](https://sjc.bnu.edu.cn/), during which I was a visiting scholar in the department of Communication Arts at the University of Wisconsin–Madison in 2024. I earned an M.A. in Journalism and Communication from [Wuhan University (WHU)](https://journal.whu.edu.cn/), as well as dual bachelor’s degrees: a B.S. in Chemistry from Central China Normal University (CCNU) and a B.A. in Advertising from WHU. Prior to joining SISLT at Mizzou, I worked as a postdoctoral researcher at WHU from 2024 to 2025.
+I hold a Ph.D. in Communication from [Beijing Normal University (BNU)](https://sjc.bnu.edu.cn/), during which I was a visiting scholar in the department of [Communication Arts](https://commarts.wisc.edu/) at the University of Wisconsin–Madison in 2024. I earned an M.A. in Journalism and Communication from [Wuhan University (WHU)](https://journal.whu.edu.cn/), as well as dual bachelor’s degrees: a B.S. in Chemistry from Central China Normal University (CCNU) and a B.A. in Advertising from WHU. Prior to joining SISLT at Mizzou, I worked as a postdoctoral researcher at WHU from 2024 to 2025.
 
 Through this program and in my future work, I will support learners like myself—who once struggled with STEM—by harnessing technology-empowered, evidence-based solutions to boost engagement and improve learning outcomes. I’m also passionate about practical design, from application development to AI-product innovation. My research aims not only to advance the fields of learning analytics and AI for education but also to forge strong industry partnerships. I warmly invite colleagues and collaborators from academia, industry, and educational institutions to connect and explore possibilities together.
 
@@ -93,7 +93,7 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 
 Serious Game and Mental Health Education(Revise and Resubmit)
 
-**Donghan Fu**,Nansong Zhou,& Zikun Liu
+**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
