@@ -78,16 +78,16 @@ My research in the field of communication lies at the intersection of social psy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HC 2025</div><img src='images/diabetes.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Chinese Parents' Online Narratives of Juvenile Diabetes](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605))
+[Chinese Parents' Online Narratives of Juvenile Diabetes](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605)
 
 **Donghan Fu**,Zikun Liu,& Yingjie Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This study shifts the focus from a patient-centered approach to examine how a child’s illness shapes parents’ sense-making. We analyzed 14 narrative posts from Xiaohongshu, where parents shared daily experiences of raising a child with diabetes. Using **Communicated Narrative Sense-Making (CNSM) theory** and reflexive thematic analysis, we identified four interconnected themes shaped by **socio-ecological** roles.
+Our findings contribute to CNSM theory by: (1) expanding its scope to public digital narratives, (2) showing how family storytelling operates across individual, family, and cultural levels—especially under Chinese cultural norms, and (3) revealing how online narratives support coping and reshape parental identity in the digital age.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 Teaching
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
