@@ -44,7 +44,7 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 
 Growing up in a traditional Chinese family, I was encouraged to pursue chemistry at a teacher’s college—a path considered stable and “appropriate” for girls, despite my limited interest and challenges in mathematics. At Central China Normal University (CCNU), I became increasingly aware of gender disparities in STEM: male faculty predominantly held research positions, while female faculty were largely assigned teaching roles. While my chemistry lectures often felt disconnected from practical application, hands-on lab activities, like building molecular models, made learning tangible and engaging. During my teaching internship, I witnessed how rigid, exam-oriented instruction often stifled students’ curiosity, especially among girls. 
 <div style="text-align: center;">
-  <img src="/assets/img/carton.jpg" alt="learning chemistry" style="width: 60%; max-width: 400px; border-radius: 8px;">
+  <img src="/images/carton.jpg" alt="learning chemistry" style="width: 60%; max-width: 400px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">Students often find chemistry boring and hard to learn.</p>
 </div>
 These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more supportive STEM learning environments for girls.
