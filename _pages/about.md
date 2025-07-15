@@ -41,6 +41,7 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 
 # 📝 Academic Path
 ***Phase One: From Chemistry to Communication (CCNU → WHU) [2014-2018]***
+
 Growing up in a traditional Chinese family, I was encouraged to pursue chemistry at a teacher’s college—a path considered stable and “appropriate” for girls, despite my limited interest and challenges in mathematics. At Central China Normal University (CCNU), I became increasingly aware of gender disparities in STEM: male faculty predominantly held research positions, while female faculty were largely assigned teaching roles. While my chemistry lectures often felt disconnected from practical application, hands-on lab activities, like building molecular models, made learning tangible and engaging. During my teaching internship, I witnessed how rigid, exam-oriented instruction often stifled students’ curiosity, especially among girls. 
 <div style="text-align: center;">
   <img src="/assets/img/carton.jpg" alt="learning chemistry" style="width: 60%; max-width: 400px; border-radius: 8px;">
@@ -50,11 +51,13 @@ These disappointing experiences motivated me to transfer from chemistry educatio
 
 
 ***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
+
 Recognizing the gap in China’s educational system in integrating STEM with media technology, I pursued a master’s degree in Communication and Media at WHU, followed by doctoral studies at BNU. There, I explored how AI-driven virtual news anchors shape audience engagement and examined the immersive potential of VR/AR in vividly reconstructing global events such as the Syrian crisis. 
 
 These experiences deepened my interest in how emerging technologies can address educational inequalities, particularly in overcoming gender biases and supporting **personalized, adaptive STEM learning.** From my perspective, theories are not static or abstract; they come alive as we witness technology actively reshaping society. My goal is to bridge communication and media theory with educational practice to drive meaningful, real-world impact.
 
 ***Phase Three: University of Wisconsin-Madison -- A Commitment to Pursuing Higher Education in the U.S. to Empower the Next Generation [2023-]***
+
 My time as a visiting scholar at the University of Wisconsin–Madison was a pivotal moment in my academic journey. It was the first time I realized that theory could be engaging and even captivating, reinforcing my belief that science becomes truly compelling when taught through effective and creative methods. Collaborating with research groups that integrated **computational approaches** with communication studies further showed me how technology can advance both scientific understanding and social impact. This interdisciplinary perspective resonated deeply with my interests—interests that I had found difficult to fully pursue within the more traditional, communication-focused academic environment in China. 
 
 Inspired by the transformative power of science and technology in expanding educational access, I chose to pursue my Ph.D. studies in the SISLT at Mizzou. Here, I aim to develop inclusive, innovative solutions that address global educational disparities and empower the next generation of learners.
