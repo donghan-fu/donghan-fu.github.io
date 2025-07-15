@@ -143,24 +143,24 @@ Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
 # 💬 Teaching
 - *2021.09*, Communication Theories, BNU (2021 Fall)
 
--Collaborated with the professor to develop 12 seminar topics and curated reading material lists
+- *Collaborated with the professor to develop 12 seminar topics and curated reading material lists*
 
--Led two discussions on Media Psychology, enhancing group engagement and participation
+- *Led two discussions on Media Psychology, enhancing group engagement and participation*
 
--Graded student performance based on discussion contributions and two paper submissions 
+- *Graded student performance based on discussion contributions and two paper submissions*
 - *2017.07-2018.04*, High School Chemistry, Wuhan University Affiliated High School (2017 Fall-2018 Spring)
 
--Taught Chemistry to three classes of 11th-grade students
+- *Taught Chemistry to three classes of 11th-grade students*
 
--Graded student assignments and provided personalized feedback to encourage proactive questioning during office hours
+- *Graded student assignments and provided personalized feedback to encourage proactive questioning during office hours*
 
--Participated in creating exams for monthly, mid-term, and final assessments to align with curriculum objectives
+- *Participated in creating exams for monthly, mid-term, and final assessments to align with curriculum objectives*
 
-💜💜**Guest Lecture**
+💜💜 **Guest Lecture**
 - *2025.05*, Social Media Journalism, WHU, Invited by Professor Zikun Liu(2025 Spring)
 - *2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)
 
-This was the course I took with Prof. Wu during my master’s studies at WHU. It is a great honor to return to my alma mater as a teacher. I have deep affection for WHU—it witnessed my personal and academic growth, and it was the starting point of my lifelong academic journey.
+- This was the course I took with Prof. Wu during my master’s studies at WHU. It is a great honor to return to my alma mater as a teacher. I have deep affection for WHU—it witnessed my personal and academic growth, and it was the starting point of my lifelong academic journey.
 <div style="text-align: center;">
   <img src="/images/cherry.jpg" alt="AI" style="width: 80%; max-width: 600px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">The School of Journalism and Communication is located at the end of Wuhan University’s iconic Cherry Blossom Avenue.(新闻与传播学院坐落在樱花大道的尽头)</p>
