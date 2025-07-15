@@ -17,10 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my homepage!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). My research lies at the intersection of Human-Computer and AI Interaction, Educational Technology, and AI for Science Communication and Education. I am particularly interested in how generative AI is transforming the ways people communicate, understand, and learn STEM subjects.
 
+By integrating emerging media technologies with theories from educational psychology, my work aims to address real-world challenges in science learning. I focus on identifying the difficulties learners face and exploring how AI can be designed to enhance both communication and educational outcomes.
+
+I hold a Ph.D. in Communication from [Beijing Normal University (BNU)](https://sjc.bnu.edu.cn/), during which I was a visiting scholar in the department of Communication Arts at the University of Wisconsin–Madison in 2024. I earned an M.A. in Journalism and Communication from [Wuhan University (WHU)](https://journal.whu.edu.cn/), as well as dual bachelor’s degrees: a B.S. in Chemistry from Central China Normal University (CCNU) and a B.A. in Advertising from WHU. Prior to joining SISLT at Mizzou, I worked as a postdoctoral researcher at WHU from 2024 to 2025.
+
+Through this program and in my future work, I will support learners like myself—who once struggled with STEM—by harnessing technology-driven, evidence-based solutions to boost engagement and improve learning outcomes. I’m also passionate about practical design, from application development to AIproduct innovation. My research aims not only to advance the fields of learning analytics and AI for education but also to forge strong industry partnerships. I warmly invite colleagues and collaborators from academia, industry, and educational institutions to connect and explore possibilities together.
+
+❤️‍🔥❤️‍🔥 **Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.**
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
