@@ -31,6 +31,19 @@ You can find my CV here: [Download My CV](https://www.dropbox.com/scl/fi/1izofye
 
 ❤️‍🔥❤️‍🔥 ***Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.***
 
+In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding at all the most iconic ski resorts around the world.
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/carton.jpg" alt="learning chemistry"
+       style="width: 80%; max-width: 600px; 
+              border: 1px solid #ccc; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+              padding: 6px; background-color: #fff;">
+  <p style="font-size: 14px; color: #555; margin-top: 8px;">
+    Students often find chemistry boring and hard to learn.
+  </p>
+</div>
+
 # 🔥 News
 - *2025.08*: 🎉🎉 I'm excited to begin my second Ph.D. in the SISLT at MU!
 - *2025.04*: ✍🏻✍🏻 My recent article on digital media and health communication has been published in *Health Communication*, a top journal in the
