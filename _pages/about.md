@@ -57,6 +57,7 @@ Recognizing the gap in China’s educational system in integrating STEM with med
   <img src="/images/VRNEWS.jpg" alt="VRNEWS" style="width: 60%; max-width: 400px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">Emerging technologies are changing how people receive and understand information.</p>
 </div>
+
 These experiences deepened my interest in how emerging technologies can address educational inequalities, particularly in overcoming gender biases and supporting **personalized, adaptive STEM learning.** From my perspective, theories are not static or abstract; they come alive as we witness technology actively reshaping society. My goal is to bridge communication and media theory with educational practice to drive meaningful, real-world impact.
 
 ***Phase Three: University of Wisconsin-Madison -- A Commitment to Pursuing Higher Education in the U.S. to Empower the Next Generation [2023-]***
