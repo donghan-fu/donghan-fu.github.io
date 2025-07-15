@@ -39,7 +39,9 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 - *2025.04*:👏🏻👏🏻 I earned my Ph.D. in Communication from BNU, marking a significant milestone in my academic journey.
 - *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Van Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
 
-# 📝 Publications 
+# 📝 Academic Path
+
+# 📝 Research 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
