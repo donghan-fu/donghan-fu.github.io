@@ -141,14 +141,14 @@ Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
 </div>
 
 # 💬 Teaching
-- ***2021.09*, Communication Theories, BNU (2021 Fall)***
+- ***2021.09*, Communication Theories, BNU (2021 Fall)**
 
 - *Collaborated with the professor to develop 12 seminar topics and curated reading material lists*
 
 - *Led two discussions on Media Psychology, enhancing group engagement and participation*
 
 - *Graded student performance based on discussion contributions and two paper submissions*
-- ***2017.07-2018.04*, High School Chemistry, Wuhan University Affiliated High School (2017 Fall-2018 Spring)***
+- ***2017.07-2018.04*, High School Chemistry, Wuhan University Affiliated High School (2017 Fall-2018 Spring)**
 
 - *Taught Chemistry to three classes of 11th-grade students*
 
@@ -158,7 +158,7 @@ Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
 
 💜💜 **Guest Lecture**
 - ***2025.05*, Social Media Journalism, WHU, Invited by Professor Zikun Liu(2025 Spring)**
-- ***2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)***
+- ***2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)**
 
 - This was the course I took with Prof. Wu during my master’s studies at WHU. It is a great honor to return to my alma mater as a teacher. I have deep affection for WHU—it witnessed my personal and academic growth, and it was the starting point of my lifelong academic journey.
 <div style="text-align: center;">
