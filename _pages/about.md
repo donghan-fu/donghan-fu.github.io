@@ -34,10 +34,10 @@ You can find my CV here: [Download My CV](https://www.dropbox.com/scl/fi/1izofye
 In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding at all the most iconic ski resorts around the world.
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/snowboard.jpg" alt="snowboard"
-       style="width: 80%; max-width: 600px; 
-              border: 1px solid #ccc; 
-              border-radius: 10px; 
-              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+       style="max-height: 500px; width: auto;
+              border: 1px solid #ccc;
+              border-radius: 10px;
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
               padding: 6px; background-color: #fff;">
   <p style="font-size: 14px; color: #555; margin-top: 8px;">
     My very first snowboard was bought in Madison—it marked the start of my snowboarding journey.
