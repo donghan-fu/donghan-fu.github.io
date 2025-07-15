@@ -37,7 +37,7 @@ You can find my CV here: [Download My CV](https://www.tandfonline.com/doi/full/1
 subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605)
 - *2025.04*: 🔛🔛 Thrilled to share that l've started my first position as a postdoctoral researcher, working with Professor [Shiwen Wu](https://journal.whu.edu.cn/intro/faculty/wusw) at WHU!
 - *2025.04*:👏🏻👏🏻 I earned my Ph.D. in Communication from BNU, marking a significant milestone in my academic journey.
-- *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Yan Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
+- *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Van Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
 
 # 📝 Publications 
 
