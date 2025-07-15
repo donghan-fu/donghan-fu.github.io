@@ -47,6 +47,7 @@ Growing up in a traditional Chinese family, I was encouraged to pursue chemistry
   <img src="/images/carton.jpg" alt="learning chemistry" style="width: 60%; max-width: 400px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">Students often find chemistry boring and hard to learn.</p>
 </div>
+
 These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more supportive STEM learning environments for girls.
 
 ***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
