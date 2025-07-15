@@ -156,7 +156,7 @@ Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
 
 - *Participated in creating exams for monthly, mid-term, and final assessments to align with curriculum objectives*
 
-💜💜 **Guest Lecture**
+💜💜 **Guest Lectures**
 - ***2025.05*, Social Media Journalism, WHU, Invited by Professor Zikun Liu (2025 Spring)**
 - ***2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)**
 
