@@ -48,6 +48,16 @@ Growing up in a traditional Chinese family, I was encouraged to pursue chemistry
 </div>
 These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more supportive STEM learning environments for girls.
 
+***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
+Recognizing the gap in China’s educational system in integrating STEM with media technology, I pursued a master’s degree in Communication and Media at WHU, followed by doctoral studies at BNU. There, I explored how AI-driven virtual news anchors shape audience engagement and examined the immersive potential of VR/AR in vividly reconstructing global events such as the Syrian crisis. 
+
+These experiences deepened my interest in how emerging technologies can address educational inequalities, particularly in overcoming gender biases and supporting **personalized, adaptive STEM learning.** From my perspective, theories are not static or abstract; they come alive as we witness technology actively reshaping society. My goal is to bridge communication and media theory with educational practice to drive meaningful, real-world impact.
+
+***Phase Three: University of Wisconsin-Madison -- A Commitment to Pursuing Higher Education in the U.S. to Empower the Next Generation [2023-]***
+My time as a visiting scholar at the University of Wisconsin–Madison was a pivotal moment in my academic journey. It was the first time I realized that theory could be engaging and even captivating, reinforcing my belief that science becomes truly compelling when taught through effective and creative methods. Collaborating with research groups that integrated **computational approaches** with communication studies further showed me how technology can advance both scientific understanding and social impact. This interdisciplinary perspective resonated deeply with my interests—interests that I had found difficult to fully pursue within the more traditional, communication-focused academic environment in China. 
+
+Inspired by the transformative power of science and technology in expanding educational access, I chose to pursue my Ph.D. studies in the SISLT at Mizzou. Here, I aim to develop inclusive, innovative solutions that address global educational disparities and empower the next generation of learners.
+
 # 📝 Research 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
