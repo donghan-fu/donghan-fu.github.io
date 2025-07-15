@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Donghan Fu"
-description              : "Ph.D. Student in the School of Information Science and Learning Technologies(SISLT) at the University of Missouri-Columbia(MU) "
+description              : "Ph.D. Student in the School of Information Science and Learning Technologies (SISLT) at the University of Missouri-Columbia(MU) "
 repository               : "donghan-fu/donghan-fu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=MIEcV3oAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : #"Lorem@ipsum.com"
   researchgate     :   e.g., "https://www.researchgate.net/profile/Donghan-Fu-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
