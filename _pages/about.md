@@ -121,7 +121,7 @@ This study conducted a cross-sectional survey assessing GDA use motivations alon
 
 [Interpersonal Electronic Surveillance in Romantic Relationships](https://onlinelibrary.wiley.com/doi/10.1111/ajsp.12631)
 
-Yiting Bai, **Donghan Fu***,& Lyn Van Swol, *Asian Journal of Social Psychology*, 2024 (* denotes corresponding author)
+Yiting Bai, **Donghan Fu***,& Lyn Van Swol, *Asian Journal of Social Psychology*, 2024 (*denotes corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper **revises the Theory of Motivated Information Management (TMIM)** and generally supports its utility as a framework for understanding information-seeking decisions (IES) within romantic relationships. First, by applying TMIM to the management of relational uncertainty, we contribute to a limited body of research (e.g., Afifi et al., 2004; Tokunaga & Gustafson, 2014) that extends TMIM beyond health-related contexts to interpersonal and family settings. Second, we propose a new interpretation of outcome expectancy and efficacy influences on IES, suggesting that efficacy does not significantly affect information-seeking. Third, we identify a differential valence effect of anxiety: while anxiety is positively associated with outcome expectancies, it is negatively associated with efficacy in the context of romantic relationships.
