@@ -27,7 +27,9 @@ I hold a Ph.D. in Communication from [Beijing Normal University (BNU)](https://s
 
 Through this program and in my future work, I will support learners like myself—who once struggled with STEM—by harnessing technology-driven, evidence-based solutions to boost engagement and improve learning outcomes. I’m also passionate about practical design, from application development to AI-product innovation. My research aims not only to advance the fields of learning analytics and AI for education but also to forge strong industry partnerships. I warmly invite colleagues and collaborators from academia, industry, and educational institutions to connect and explore possibilities together.
 
-❤️‍🔥❤️‍🔥 **Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.**
+You can find my CV here: [Download My CV](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605)
+
+❤️‍🔥❤️‍🔥 ***Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.***
 
 # 🔥 News
 - *2025.08*: 🎉🎉 I'm excited to begin my second Ph.D. in the SISLT at MU!
@@ -37,7 +39,6 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 - *2025.04*:👏🏻👏🏻 I earned my Ph.D. in Communication from BNU, marking a significant milestone in my academic journey.
 - *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Yan Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
 
-- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
