@@ -30,7 +30,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=MIEcV3oAAAAJ"
   email            : #"Lorem@ipsum.com"
-  researchgate     :   e.g., "https://www.researchgate.net/profile/Donghan-Fu-2?ev=hdr_xprf"
+  researchgate     :  "https://www.researchgate.net/profile/Donghan-Fu-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,9 +44,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  e.g., "https://www.linkedin.com/in/fu-donghan-a99529353/"
+  linkedin         : "https://www.linkedin.com/in/fu-donghan-a99529353/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            :  e.g., "https://orcid.org/0000-0002-1374-6667"
+  orcid            : "https://orcid.org/0000-0002-1374-6667"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
