@@ -81,7 +81,7 @@ Recognizing the gap in China’s educational system in integrating STEM with med
               box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
               padding: 6px; background-color: #fff;">
   <p style="font-size: 14px; color: #555; margin-top: 8px;">
-    Emerging Technologies Are Changing How People Receive and Understand Information.
+    Emerging technologies are changing how people receive and understand information.
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Inspired by the transformative power of science and technology in expanding educ
               box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
               padding: 6px; background-color: #fff;">
   <p style="font-size: 14px; color: #555; margin-top: 8px;">
-    Harnessing Generative AI for Advancing Science Communication and Education.
+    Harnessing generative AI for advancing science communication and education.
   </p>
 </div>
 
