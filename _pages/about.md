@@ -94,7 +94,7 @@ My time as a visiting scholar at the University of Wisconsin–Madison was a piv
 Inspired by the transformative power of science and technology in expanding educational access, I chose to pursue my Ph.D. studies in the SISLT at Mizzou. Here, I aim to develop inclusive, innovative solutions that address global educational disparities and empower the next generation of learners.
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/AI.jpg" alt="AI"
-       style="height: 500px; width: auto; 
+       style="width: 80%; max-width: 600px; 
               border: 1px solid #ccc; 
               border-radius: 10px; 
               box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
