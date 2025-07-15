@@ -27,7 +27,7 @@ I hold a Ph.D. in Communication from [Beijing Normal University (BNU)](https://s
 
 Through this program and in my future work, I will support learners like myself—who once struggled with STEM—by harnessing technology-driven, evidence-based solutions to boost engagement and improve learning outcomes. I’m also passionate about practical design, from application development to AI-product innovation. My research aims not only to advance the fields of learning analytics and AI for education but also to forge strong industry partnerships. I warmly invite colleagues and collaborators from academia, industry, and educational institutions to connect and explore possibilities together.
 
-You can find my CV here: [Download My CV](https://www.dropbox.com/scl/fi/1izofyetw1aulgugo6np7/Donghan-Fu_Curriculum_Vitae.pdf?rlkey=97ohsv8hpx9irfm6qei2731t8&st=ujb0kj46&dl=0))
+You can find my CV here: [Download My CV](https://www.dropbox.com/scl/fi/1izofyetw1aulgugo6np7/Donghan-Fu_Curriculum_Vitae.pdf?rlkey=97ohsv8hpx9irfm6qei2731t8&st=ujb0kj46&dl=0)
 
 ❤️‍🔥❤️‍🔥 ***Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.***
 
