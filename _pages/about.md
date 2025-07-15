@@ -80,7 +80,7 @@ My research in the field of communication lies at the intersection of social psy
 
 [Chinese Parents' Online Narratives of Juvenile Diabetes](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605)
 
-**Donghan Fu**,Zikun Liu,& Yingjie Liu
+**Donghan Fu**,Zikun Liu,& Yingjie Liu, *Health Communication*, 2025
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study shifts the focus from a patient-centered approach to examine how a child’s illness shapes parents’ sense-making. We analyzed 14 narrative posts from Xiaohongshu, where parents shared daily experiences of raising a child with diabetes. Using **Communicated Narrative Sense-Making (CNSM) theory** and reflexive thematic analysis, we identified four interconnected themes shaped by **socio-ecological** roles.
@@ -93,7 +93,7 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 
 Serious Game and Mental Health Education(Revise and Resubmit)
 
-**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Health Communication*, 2025
+**Donghan Fu**,Nansong Zhou,& Zikun Liu
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
@@ -111,6 +111,32 @@ Along He, He Bu, Wenlong Mu, **Donghan Fu**,& Chen Chen, *Archives of Sexual Beh
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - While the use of gay dating apps (GDAs) has proliferated in China, research on their potential effects on health outcomes—particularly mental health—among gay and bisexual men remains limited. GDA use is driven by diverse motivations, and understanding these motivational profiles may offer a crucial starting point for examining the varied effects of GDA use on health-related outcomes.
 This study conducted a cross-sectional survey assessing GDA use motivations alongside health variables, including condom use frequency, **self-stigma, and subjective emptiness.** While no causal conclusions can be drawn from the data, the findings suggest that mental health outcomes—such as subjective emptiness and self-stigma—may affect individuals differently depending on their underlying motivational orientation for using GDAs.
+</div>
+</div>
+
+2️⃣ ***Emotions in Digital Interaction***
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSP 2024</div><img src='images/AJSP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpersonal Electronic Surveillance in Romantic Relationships](https://onlinelibrary.wiley.com/doi/10.1111/ajsp.12631)
+
+Yiting Bai, **Donghan Fu***,& Lyn Van Swol, *Asian Journal of Social Psychology*, 2024 (* denotes corresponding author)
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper revises the Theory of Motivated Information Management (TMIM) and generally supports its utility as a framework for understanding information-seeking decisions (IES) within romantic relationships. First, by applying TMIM to the management of relational uncertainty, we contribute to a limited body of research (e.g., Afifi et al., 2004; Tokunaga & Gustafson, 2014) that extends TMIM beyond health-related contexts to interpersonal and family settings. Second, we propose a new interpretation of outcome expectancy and efficacy influences on IES, suggesting that efficacy does not significantly affect information-seeking. Third, we identify a differential valence effect of anxiety: while anxiety is positively associated with outcome expectancies, it is negatively associated with efficacy in the context of romantic relationships.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/chatbot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Sensitivity to Chatbot Emotion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120806)
+
+Lyn Van Swol, **Donghan Fu**, Preprint
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- As humans increasingly interact with chatbots—often without knowing whether their partner is a bot—the language and communication style of these agents can subtly and unconsciously influence human responses. This paper investigates how the emotional linguistic tone of a chatbot affects users' perceived identity with the chatbot and whether this identity formation is mediated by the users’ own emotional responses during the interaction. We also examine whether participants' awareness (or suspicion) that their partner is a chatbot alters the process of collective identity formation. Additionally, we explore how linguistic tone influences perceptions of the chatbot’s competence. After reviewing prior research on social responses to chatbots and technologies, we situate our study within a linguistic framework, drawing on theories of emotional expression, collective identity, and competence perception.
 </div>
 </div>
 
