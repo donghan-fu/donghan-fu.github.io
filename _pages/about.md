@@ -133,7 +133,7 @@ Yiting Bai, **Donghan Fu***,& Lyn Van Swol, *Asian Journal of Social Psychology*
 
 [Human Sensitivity to Chatbot Emotion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120806)
 
-Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
+Lyn Van Swol, Aimée A. Kane, & **Donghan Fu**, Preprint
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - As humans increasingly interact with chatbots—often without knowing whether their partner is a bot—the language and communication style of these agents can subtly and unconsciously influence human responses. This paper investigates how the emotional linguistic tone of a chatbot affects users' perceived identity with the chatbot and whether this identity formation is mediated by the users’ own emotional responses during the interaction. We also examine whether participants' awareness (or suspicion) that their partner is a chatbot alters the process of collective identity formation. Additionally, we explore how linguistic tone influences perceptions of the chatbot’s competence. After reviewing prior research on social responses to chatbots and technologies, we situate our study within a linguistic framework, drawing on theories of emotional expression, collective identity, and competence perception.
