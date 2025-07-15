@@ -56,9 +56,16 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 ***Phase One: From Chemistry to Communication (CCNU → WHU) [2014-2018]***
 
 Growing up in a traditional Chinese family, I was encouraged to pursue chemistry at a teacher’s college—a path considered stable and “appropriate” for girls, despite my limited interest and challenges in mathematics. At Central China Normal University (CCNU), I became increasingly aware of gender disparities in STEM: male faculty predominantly held research positions, while female faculty were largely assigned teaching roles. While my chemistry lectures often felt disconnected from practical application, hands-on lab activities, like building molecular models, made learning tangible and engaging. During my teaching internship, I witnessed how rigid, exam-oriented instruction often stifled students’ curiosity, especially among girls. 
-<div style="text-align: center;">
-  <img src="/images/carton.jpg" alt="learning chemistry" style="width: 80%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 14px; color: #555;">Students Often Find Chemistry Boring and Hard to Learn.</p>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/carton.jpg" alt="learning chemistry"
+       style="width: 80%; max-width: 600px; 
+              border: 1px solid #ccc; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+              padding: 6px; background-color: #fff;">
+  <p style="font-size: 14px; color: #555; margin-top: 8px;">
+    Students often find chemistry boring and hard to learn.
+  </p>
 </div>
 
 These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more **supportive STEM learning environments** for girls.
@@ -66,9 +73,16 @@ These disappointing experiences motivated me to transfer from chemistry educatio
 ***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
 
 Recognizing the gap in China’s educational system in integrating STEM with media technology, I pursued a master’s degree in Communication and Media at WHU, followed by doctoral studies at BNU. There, I explored how AI-driven virtual news anchors shape audience engagement and examined the immersive potential of VR/AR in vividly reconstructing global events such as the Syrian crisis. 
-<div style="text-align: center;">
-  <img src="/images/VRNEWS.jpg" alt="VRNEWS" style="width: 80%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 14px; color: #555;">Emerging Technologies Are Changing How People Receive and Understand Information.</p>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/VRNEWS.jpg" alt="VRNEWS"
+       style="width: 80%; max-width: 600px; 
+              border: 1px solid #ccc; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+              padding: 6px; background-color: #fff;">
+  <p style="font-size: 14px; color: #555; margin-top: 8px;">
+    Emerging Technologies Are Changing How People Receive and Understand Information.
+  </p>
 </div>
 
 These experiences deepened my interest in how emerging technologies can address educational inequalities, particularly in overcoming gender biases and supporting **personalized, adaptive STEM learning.** From my perspective, theories are not static or abstract; they come alive as we witness technology actively reshaping society. My goal is to bridge communication and media theory with educational practice to drive meaningful, real-world impact.
@@ -78,9 +92,16 @@ These experiences deepened my interest in how emerging technologies can address 
 My time as a visiting scholar at the University of Wisconsin–Madison was a pivotal moment in my academic journey. It was the first time I realized that theory could be engaging and even captivating, reinforcing my belief that science becomes truly compelling when taught through effective and creative methods. Collaborating with research groups that integrated **computational approaches** with communication studies further showed me how technology can advance both scientific understanding and social impact. This interdisciplinary perspective resonated deeply with my interests—interests that I had found difficult to fully pursue within the more traditional, communication-focused academic environment in China. 
 
 Inspired by the transformative power of science and technology in expanding educational access, I chose to pursue my Ph.D. studies in the SISLT at Mizzou. Here, I aim to develop inclusive, innovative solutions that address global educational disparities and empower the next generation of learners.
-<div style="text-align: center;">
-  <img src="/images/AI.jpg" alt="AI" style="width: 80%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 14px; color: #555;">Harnessing Generative AI for Advancing Science Communication and Education.</p>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/AI.jpg" alt="AI"
+       style="width: 80%; max-width: 600px; 
+              border: 1px solid #ccc; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+              padding: 6px; background-color: #fff;">
+  <p style="font-size: 14px; color: #555; margin-top: 8px;">
+    Harnessing Generative AI for Advancing Science Communication and Education.
+  </p>
 </div>
 
 # 📝 Research 
