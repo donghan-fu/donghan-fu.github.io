@@ -40,6 +40,13 @@ subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490
 - *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Van Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
 
 # 📝 Academic Path
+***Phase One: From Chemistry to Communication (CCNU → WHU) [2014-2018]***
+Growing up in a traditional Chinese family, I was encouraged to pursue chemistry at a teacher’s college—a path considered stable and “appropriate” for girls, despite my limited interest and challenges in mathematics. At Central China Normal University (CCNU), I became increasingly aware of gender disparities in STEM: male faculty predominantly held research positions, while female faculty were largely assigned teaching roles. While my chemistry lectures often felt disconnected from practical application, hands-on lab activities, like building molecular models, made learning tangible and engaging. During my teaching internship, I witnessed how rigid, exam-oriented instruction often stifled students’ curiosity, especially among girls. 
+<div style="text-align: center;">
+  <img src="/assets/img/your-image.jpg" alt="描述文字" style="width: 60%; max-width: 400px; border-radius: 8px;">
+  <p style="font-size: 14px; color: #555;">图片下方的描述文字（可选）</p>
+</div>
+These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more supportive STEM learning environments for girls.
 
 # 📝 Research 
 
