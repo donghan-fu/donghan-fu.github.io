@@ -73,7 +73,7 @@ Inspired by the transformative power of science and technology in expanding educ
 # 📝 Research 
 My research in the field of communication lies at the intersection of social psychology—with a particular emphasis on emotion—and digital media, focusing on topics such as health communication related to diabetes and mental health, as well as interpersonal communication scenarios.
 
-1️⃣***Digital Media and Health Communication***
+1️⃣ ***Digital Media and Health Communication***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HC 2025</div><img src='images/diabetes.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,6 +88,31 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Serious Game and Mental Health Education(Revise and Resubmit)
+
+**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Health Communication*, 2025
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
+Analyzing pre- and post-game reflections and play logs, we observed a shift from stigmatizing, macro-level attributions of depression toward more normalized views and greater recognition of treatment options. The findings highlight the potential of serious games to support mental health education, while also pointing to challenges in delivering nuanced content, reducing social distance, and maintaining engaging playability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASB 2024</div><img src='images/dating.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dating App Use and Health Outcomes](https://link.springer.com/article/10.1007/s10508-023-02746-9)
+
+Along He, He Bu, Wenlong Mu, **Donghan Fu**,& Chen Chen, *Archives of Sexual Behavior*, 2024
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- While the use of gay dating apps (GDAs) has proliferated in China, research on their potential effects on health outcomes—particularly mental health—among gay and bisexual men remains limited. GDA use is driven by diverse motivations, and understanding these motivational profiles may offer a crucial starting point for examining the varied effects of GDA use on health-related outcomes.
+This study conducted a cross-sectional survey assessing GDA use motivations alongside health variables, including condom use frequency, **self-stigma, and subjective emptiness.** While no causal conclusions can be drawn from the data, the findings suggest that mental health outcomes—such as subjective emptiness and self-stigma—may affect individuals differently depending on their underlying motivational orientation for using GDAs.
+</div>
+</div>
 
 # 💬 Teaching
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
