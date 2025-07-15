@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). My research lies at the intersection of Human-Computer and AI Interaction, Educational Technology, and AI for Science Communication and Education. I am particularly interested in how generative AI is transforming the ways people communicate, understand, and learn STEM subjects.
+My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). My research lies at the intersection of **Human-Computer and AI Interaction, Educational Technology, and AI for Science Communication and Education**. I am particularly interested in how generative AI is transforming the ways people communicate, understand, and learn STEM subjects.
 
 By integrating emerging media technologies with theories from educational psychology, my work aims to address real-world challenges in science learning. I focus on identifying the difficulties learners face and exploring how AI can be designed to enhance both communication and educational outcomes.
 
@@ -30,9 +30,14 @@ Through this program and in my future work, I will support learners like myself�
 ❤️‍🔥❤️‍🔥 **Motto: Girls can be great scientists—and they can pursue their dreams at any stage of life.**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: 🎉🎉 I'm excited to begin my second Ph.D. in the SISLT at MU!
+- *2025.04*: ✍🏻✍🏻 My recent article on digital media and health communication has been published in *Health Communication*, a top journal in the
+subfield. [Link](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605)
+- *2025.04*: 🔛🔛 Thrilled to share that l've started my first position as a postdoctoral researcher, working with Professor [Shiwen Wu](https://journal.whu.edu.cn/intro/faculty/wusw) at WHU!
+- *2025.04*:👏🏻👏🏻 I earned my Ph.D. in Communication from BNU, marking a significant milestone in my academic journey.
+- *2022.08*: 🍀🍀 Visiting scholar in Communication Arts at the University of Wisconsin-Madison, collaborating with Professor [Lyn Yan Swol](https://commarts.wisc.edu/staff/van-swol-lyn/). This experience was a key turning point in my academic development.
 
+- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
