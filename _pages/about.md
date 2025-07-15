@@ -71,13 +71,16 @@ Inspired by the transformative power of science and technology in expanding educ
 </div>
 
 # 📝 Research 
+My research in the field of communication lies at the intersection of social psychology—with a particular emphasis on emotion—and digital media, focusing on topics such as health communication related to diabetes and mental health, as well as interpersonal communication scenarios.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+1️⃣***Digital Media and Health Communication***
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HC 2025</div><img src='images/diabetes.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Chinese Parents' Online Narratives of Juvenile Diabetes](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490605))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Donghan Fu**,Zikun Liu,& Yingjie Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
