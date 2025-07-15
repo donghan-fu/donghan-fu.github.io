@@ -159,11 +159,11 @@ Lyn Van Swol, Aimée A. Kane **Donghan Fu**, Preprint
 💜💜**Guest Lecture**
 - *2025.05*, Social Media Journalism, WHU, Invited by Professor Zikun Liu(2025 Spring)
 - *2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)
-
 This was the course I took with Prof. Wu during my master’s studies at WHU. It is a great honor to return to my alma mater as a teacher. I have deep affection for WHU—it witnessed my personal and academic growth, and it was the starting point of my lifelong academic journey.
 <div style="text-align: center;">
   <img src="/images/cherry.jpg" alt="AI" style="width: 80%; max-width: 600px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">The School of Journalism and Communication is located at the end of Wuhan University’s iconic Cherry Blossom Avenue.
-  (新闻与传播学院坐落在樱花大道的尽头)</p>
+  
+    (新闻与传播学院坐落在樱花大道的尽头)</p>
 </div>
 
