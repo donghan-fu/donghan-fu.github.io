@@ -48,6 +48,7 @@ Growing up in a traditional Chinese family, I was encouraged to pursue chemistry
 </div>
 These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more supportive STEM learning environments for girls.
 
+
 ***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
 Recognizing the gap in China’s educational system in integrating STEM with media technology, I pursued a master’s degree in Communication and Media at WHU, followed by doctoral studies at BNU. There, I explored how AI-driven virtual news anchors shape audience engagement and examined the immersive potential of VR/AR in vividly reconstructing global events such as the Syrian crisis. 
 
