@@ -163,7 +163,8 @@ This was the course I took with Prof. Wu during my master’s studies at WHU. It
 <div style="text-align: center;">
   <img src="/images/cherry.jpg" alt="AI" style="width: 80%; max-width: 600px; border-radius: 8px;">
   <p style="font-size: 14px; color: #555;">The School of Journalism and Communication is located at the end of Wuhan University’s iconic Cherry Blossom Avenue.
-  
-    (新闻与传播学院坐落在樱花大道的尽头)</p>
+    
+    (新闻与传播学院坐落在樱花大道的尽头)
+  </p>
 </div>
 
