@@ -127,7 +127,7 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Serious Game and Mental Health Education(Revise and Resubmit)
+Serious Game and Mental Health Education(Revised and Resubmitted)
 
 **Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
 
