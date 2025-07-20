@@ -196,7 +196,7 @@ Lyn Van Swol, Aimée A. Kane, & **Donghan Fu**, Preprint
 - ***2025.05*, Social Media Journalism, WHU, Invited by Professor Zikun Liu (2025 Spring)**
 - ***2024.12*, Journalism and Communication Theory, Invited by Professor Shiwen Wu（2024 Fall)**
 
-- This course was taught by Prof. Wu during my master’s studies at WHU. Now, I’ve been invited by him to return and give a lecture—a moment that feels both meaningful. I feel incredibly fortunate to come back and work at my alma mater. I have deep affection for WHU—it witnessed my personal and academic growth and marked the beginning of my lifelong academic journey.
+- Prof. Wu taught this course during my master’s studies at WHU. Now, I’ve been invited by him to return and give a lecture, a moment that feels meaningful. I feel incredibly fortunate to come back and work at my alma mater. I have deep affection for WHU—it witnessed my personal and academic growth and marked the beginning of my lifelong academic journey.
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/cherry.jpg" alt="cherry"
        style="width: 80%; max-width: 600px; 
