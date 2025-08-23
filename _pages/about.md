@@ -58,6 +58,7 @@ Over the past ten years of my educational journey, I have encountered three pivo
 ***Phase One: From Chemistry to Communication (CCNU → WHU) [2014-2018]***
 
 Growing up in a traditional Chinese family, I was encouraged to pursue chemistry at a teacher’s college—a path considered stable and “appropriate” for girls, despite my limited interest and challenges in mathematics. At Central China Normal University (CCNU), I became increasingly aware of gender disparities in STEM: male faculty predominantly held research positions, while female faculty were largely assigned teaching roles. While my chemistry lectures often felt disconnected from practical application, hands-on lab activities, like building molecular models, made learning tangible and engaging. During my teaching internship, I witnessed how rigid, exam-oriented instruction often stifled students’ curiosity, especially among girls. 
+These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more **supportive STEM learning environments** for girls.
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/carton.jpg" alt="learning chemistry"
        style="width: 80%; max-width: 600px; 
@@ -69,8 +70,6 @@ Growing up in a traditional Chinese family, I was encouraged to pursue chemistry
     Students often find chemistry boring and hard to learn.
   </p>
 </div>
-
-These disappointing experiences motivated me to transfer from chemistry education to communication studies, aiming to create more **supportive STEM learning environments** for girls.
 
 ***Phase Two: Communication Studies at WHU and BNU [2018-2024]***
 
