@@ -115,7 +115,7 @@ Inspired by the transformative power of science and technology in expanding educ
 </div>
 
 # 📝 Research 
-My research in the field of communication lies at the intersection of social psychology—with a particular emphasis on emotion—and digital media, focusing on topics such as health communication related to diabetes and mental health, as well as interpersonal communication scenarios.
+My research sits at the intersection of social psychology and digital media. I examine how discrete emotions such as anxiety and fear, as well as higher-order emotions like feeling moved, shape information practices on social platforms and the social outcomes that follow. I also study health promotion with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
 1️⃣ ***Digital Media and Health Communication***
 
@@ -171,6 +171,8 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 - This paper **revises the Theory of Motivated Information Management (TMIM)** and generally supports its utility as a framework for understanding information-seeking decisions (IES) within romantic relationships. First, by applying TMIM to the management of relational uncertainty, we contribute to a limited body of research (e.g., Afifi et al., 2004; Tokunaga & Gustafson, 2014) that extends TMIM beyond health-related contexts to interpersonal and family settings. Second, we propose a new interpretation of outcome expectancy and efficacy influences on IES, suggesting that efficacy does not significantly affect information-seeking. Third, we identify a differential valence effect of anxiety: while anxiety is positively associated with outcome expectancies, it is negatively associated with efficacy in the context of romantic relationships.
 </div>
 </div>
+
+
 
 # 💬 Teaching
 - ***2021.09*, Communication Theories, BNU (2021 Fall)**
