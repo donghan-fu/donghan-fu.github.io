@@ -172,6 +172,17 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2025</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Compliance vs. Resistance: Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos(Accepted)
+
+**Donghan Fu**, *Issues & Studies*, 2025
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This research examines **“touchingness,”** an advanced and often overlooked emotional state that is frequently mobilized in Chinese soft propaganda, using semi-structured interviews with 32 young adults (18–35). The analysis reveals a tension between compliance and resistance, shaped by cultural context, individual experience, and platform features such as algorithmic recommendations and the affordances of short videos. Three audience–authority relationship types emerge: co-construction, compromised adaptation, and opposition.
+</div>
+</div>
 
 
 # 💬 Teaching
