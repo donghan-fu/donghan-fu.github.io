@@ -186,7 +186,7 @@ Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos(Accepted
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2025</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2025</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model (Under Review)
