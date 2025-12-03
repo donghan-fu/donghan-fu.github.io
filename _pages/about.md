@@ -51,7 +51,7 @@ In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding a
 </div>
 
 # 🔥 News
-- *2025.10*: ✍🏻✍🏻 I’m thrilled to share that my recent work on serious games and mental health education has been accepted for publication in the *Asian Journal of Communication*!
+- *2025.10*: ✍🏻✍🏻 I’m thrilled to share that my recent work on serious games and mental health education was online today in the [*Asian Journal of Communication*](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
 - *2025.10*:  🎉🎉 My paper received the **Top Student Paper Award** from the Game Studies Division of the National Communication Association (NCA).
 - *2025.08*: 🎉🎉 I'm excited to begin my second Ph.D. in the SISLT at MU!
 - *2025.04*: ✍🏻✍🏻 My recent article on digital media and health communication has been published in *Health Communication*, a top journal in the
@@ -135,7 +135,7 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Serious Game and Mental Health Education(Accepted)
+[Serious Game and Mental Health Education](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
 
 **Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
 
