@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). My research sits at the intersection of **Human–Computer Interaction (HCI), Human-Artificial Intelligence (AI) Interaction, and AI for health and STEM education**. I am especially interested in how generative AI reshapes the ways people communicate, understand, and learn STEM content, and how AI can help address health challenges related to depression and women’s health.
+My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). My research sits at the intersection of **Human–Computer Interaction (HCI), Human-Artificial Intelligence (AI) Interaction, and AI for health promotion and STEM education**. I am especially interested in how generative AI reshapes the ways people communicate, understand, and learn STEM content, and how AI can help address health challenges related to depression and women’s health.
 
 My work follows two interconnected strands.
 
