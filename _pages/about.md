@@ -119,6 +119,19 @@ My research sits at the intersection of social psychology and digital media. I e
 
 1️⃣ ***Digital Media and Health Communication***
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Serious Game and Mental Health Education](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
+
+**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
+Analyzing pre- and post-game reflections and play logs, we observed a shift from stigmatizing, macro-level attributions of depression toward more normalized views and greater recognition of treatment options. The findings highlight the potential of serious games to support mental health education, while also pointing to challenges in delivering nuanced content, reducing social distance, and maintaining engaging playability.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HC 2025</div><img src='images/diabetes.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -132,18 +145,6 @@ Our findings contribute to CNSM theory by: (1) expanding its scope to public dig
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Serious Game and Mental Health Education](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
-
-**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
-
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
-Analyzing pre- and post-game reflections and play logs, we observed a shift from stigmatizing, macro-level attributions of depression toward more normalized views and greater recognition of treatment options. The findings highlight the potential of serious games to support mental health education, while also pointing to challenges in delivering nuanced content, reducing social distance, and maintaining engaging playability.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASB 2024</div><img src='images/dating.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -160,6 +161,19 @@ This study conducted a cross-sectional survey assessing GDA use motivations alon
 
 2️⃣ ***Emotions in Digital Interaction***
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2025</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos(Accepted)
+
+**Donghan Fu**, *Issues & Studies*, 2026
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- **Fcous: Feeling Touched**
+-  This research examines **“touchingness,”** an advanced and often overlooked emotional state that is frequently mobilized in Chinese soft propaganda, using semi-structured interviews with 32 young adults (18–35). The analysis reveals a tension between compliance and resistance, shaped by cultural context, individual experience, and platform features such as algorithmic recommendations and the affordances of short videos. Three audience–authority relationship types emerge: co-construction, compromised adaptation, and opposition.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSP 2024</div><img src='images/AJSP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,18 +187,6 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2025</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos(Accepted)
-
-**Donghan Fu**, *Issues & Studies*, 2025
-
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- **Fcous: Feeling Touched**
--  This research examines **“touchingness,”** an advanced and often overlooked emotional state that is frequently mobilized in Chinese soft propaganda, using semi-structured interviews with 32 young adults (18–35). The analysis reveals a tension between compliance and resistance, shaped by cultural context, individual experience, and platform features such as algorithmic recommendations and the affordances of short videos. Three audience–authority relationship types emerge: co-construction, compromised adaptation, and opposition.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2025</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
