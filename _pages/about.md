@@ -51,6 +51,7 @@ In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding a
 </div>
 
 # 🔥 News
+- *2026.01*: 📃📃 Two of my papers have been accepted to [the Kentucky Conference on Health Communication (KCHC 2026)](https://comm.uky.edu/kchc/), where I will present my work in Kentucky on April 2–4, 2026.
 - *2025.10*: ✍🏻✍🏻 I’m thrilled to share that my recent work on serious games and mental health education was online today in the [*Asian Journal of Communication*](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
 - *2025.10*:  🎉🎉 My paper received the **Top Student Paper Award** from the Game Studies Division of the National Communication Association (NCA).
 - *2025.08*: 🎉🎉 I'm excited to begin my second Ph.D. in the SISLT at MU!
@@ -124,7 +125,7 @@ My research sits at the intersection of social psychology and digital media. I e
 
 [Serious Game and Mental Health Education](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
 
-**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*
+**Donghan Fu**,Nansong Zhou,& Zikun Liu, *Asian Journal of Communication*, 2025
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study focuses on serious games and mental health education, integrating theoretical perspectives from **digital games, narrative, and depression literacy**. The dominant Western diagnostic frameworks often fail to reflect Chinese sociocultural understandings of depression, leading to limited public awareness despite rising prevalence among young adults. Using the Asia-based serious game prototype The Room of Depression, this study explores how lifelike narratives and visually aesthetic design can foster empathy and improve mental health literacy.
