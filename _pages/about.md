@@ -161,7 +161,7 @@ This study conducted a cross-sectional survey assessing GDA use motivations alon
 
 2️⃣ ***Emotions in Digital Interaction***
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2025</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2026</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos(Accepted)
@@ -188,12 +188,12 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2025</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model (Under Review)
 
-Shuang Song, **Donghan Fu**, *Digital Journalism*, 2025 (Corresponding author)
+Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - **Focus: Fatigue**
