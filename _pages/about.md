@@ -192,7 +192,7 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model (Under Review)
+Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model (Revise and Resubmission)
 
 Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 
