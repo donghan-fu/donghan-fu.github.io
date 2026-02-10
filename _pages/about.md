@@ -165,7 +165,7 @@ This study conducted a cross-sectional survey assessing GDA use motivations alon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2026</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos](https://link.springer.com/article/10.1007/s10508-023-02746-9)
+[Audience Reactions to Emotion-Driven Propaganda in Chinese Short Videos](https://doi.org/10.1142/S1013251126500013)
 
 **Donghan Fu**, *Issues & Studies*, 2026
 
