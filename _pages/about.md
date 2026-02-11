@@ -122,12 +122,26 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 
 ❤️‍🔥🔛🔛***Primary Ongoing Projects***
 
-**AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
+**1. AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JA 2026</div><img src='images/Journalism Studies.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AI-Driven Journalism Innovations
+**Donghan Fu** (Corresponding author)
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction four aspects. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven journalism innovations for personalization across 34 countries worldwide (N = 53,799).
+</div>
+</div>
+
+**2. How Non-STEM Learners Experience Cleanroom Fabrication through Virtual Reality** (lead author with an interdisciplinary team from Mizzou spanning Engineering, Electrical Engineering and Computer Science; under review at the *26th IEEE International Conference on Advanced Learning Technologies [ICALT 2026]*).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICALT 2026</div><img src='images/ICALT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Journalism Students' Immersive VR Experience
+**Donghan Fu** (First author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction four aspects. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven journalism innovations for personalization across 34 countries worldwide (N = 53,799).
