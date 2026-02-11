@@ -131,7 +131,7 @@ AI-Driven Journalism Innovations
 **Donghan Fu** (Corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction four aspects. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven journalism innovations for personalization across 34 countries worldwide (N = 53,799).
+- AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven innovations in personalized journalism across 34 countries worldwide (*N* = 53,799).
 </div>
 </div>
 
@@ -144,11 +144,11 @@ Journalism Students' Immersive VR Experience
 **Donghan Fu** (First author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction four aspects. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven journalism innovations for personalization across 34 countries worldwide (N = 53,799).
+- This study examines journalism students’ perceptions of an immersive virtual reality (VR) cleanroom fabrication simulation, focusing on how non-STEM learners engage with unfamiliar technical content. Using a convergent mixed-methods design combining computational text mining (sentiment analysis, LDA topic modeling, and semantic network analysis) with manual thematic coding, we analyzed 83 open-ended responses from 15 participants following a 1.5-hour VR experience and post-experience casual conversation data.
 </div>
 </div>
 
-
+✍️✍️***Selected Published Paper***
 1️⃣ ***Digital Media and Health Communication***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
