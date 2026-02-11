@@ -148,7 +148,21 @@ Journalism Students' Immersive VR Experience
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**3. Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (Revise and Resubmission)
+
+Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- **Focus: Fatigue**
+- Fake news spreads rapidly through algorithms and social networks, while the sheer volume of content pushes audiences away from news, threatening democratic vitality. Yet these dynamics are rarely examined together. This study asks whether, and through which mechanisms, individuals detach from news in response to fake news. It tests a pathway from exposure to fake news to general news avoidance, with **news fatigue** as a mediator, perceived news importance as a moderator, and cross-national differences in public service media models as a macro-level contextual factor.
+</div>
+</div>
+
 ✍️✍️***Selected Published Paper***
+
 1️⃣ ***Digital Media and Health Communication***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
@@ -219,19 +233,6 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model (Revise and Resubmission)
-
-Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
-
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- **Focus: Fatigue**
-- Fake news spreads rapidly through algorithms and social networks, while the sheer volume of content pushes audiences away from news, threatening democratic vitality. Yet these dynamics are rarely examined together. This study asks whether, and through which mechanisms, individuals detach from news in response to fake news. It tests a pathway from exposure to fake news to general news avoidance, with **news fatigue** as a mediator, perceived news importance as a moderator, and cross-national differences in public service media models as a macro-level contextual factor.
-</div>
-</div>
 
 # 💬 Teaching
 - ***2021.09*, Communication Theories, BNU (2021 Fall)**
