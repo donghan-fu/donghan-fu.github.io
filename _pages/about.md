@@ -51,6 +51,7 @@ In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding a
 </div>
 
 # 🔥 News
+- *2026.01*: 🎉🎉 My paper "How Audiences Respond to Emotional Propaganda in Chinese Short-Form Videos" was online in the [*Issues & Studies*] (https://doi.org/10.1142/S1013251126500013)
 - *2026.01*: 📃📃 Two of my papers have been accepted to [the Kentucky Conference on Health Communication (KCHC 2026)](https://comm.uky.edu/kchc/), where I will present my work in Kentucky on April 2–4, 2026.
 - *2025.10*: ✍🏻✍🏻 I’m thrilled to share that my recent work on serious games and mental health education was online today in the [*Asian Journal of Communication*](https://www.tandfonline.com/doi/full/10.1080/01292986.2025.2594802)
 - *2025.10*:  🎉🎉 My paper received the **Top Student Paper Award** from the Game Studies Division of the National Communication Association (NCA).
