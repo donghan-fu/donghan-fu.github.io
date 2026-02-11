@@ -128,6 +128,7 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 <div class='paper-box-text' markdown="1">
 
 AI-Driven Journalism Innovations
+
 **Donghan Fu** (Corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -141,6 +142,7 @@ AI-Driven Journalism Innovations
 <div class='paper-box-text' markdown="1">
 
 Journalism Students' Immersive VR Experience
+
 **Donghan Fu** (First author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
