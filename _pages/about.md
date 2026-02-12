@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). I’m currently a member of the **Technology to Enhance Learning Lab [(TELL)](https://tell.missouri.edu/)** led by [Dr. Xinhao Xu](https://cehd.missouri.edu/person/xinhao-xu/). My research sits at the intersection of **Human–Computer Interaction (HCI), Human-Artificial Intelligence (AI) Interaction, and AI for health promotion and STEM education**. I am especially interested in how generative AI reshapes the ways people communicate, understand, and learn STEM content, and how AI can help address health challenges related to depression and women’s health.
+My name is Donghan Fu, and I am a Ph.D. student in the [School of Information Science and Learning Technologies (SISLT)](https://cehd.missouri.edu/information-science-learning-technologies/degrees-programs/information-science-learning-technologies-phd/) at the University of Missouri-Columbia (MU). I’m currently a member of the **Technology to Enhance Learning Lab [(TELL)](https://tell.missouri.edu/)** led by [Dr. Xinhao Xu](https://cehd.missouri.edu/person/xinhao-xu/). My research sits at the intersection of **Human–Computer Interaction (HCI), Human-Artificial Intelligence (AI) Interaction (HAII), and AI for health promotion and STEM education**. I am especially interested in how generative AI reshapes the ways people communicate, understand, and learn STEM content, and how AI can help address health challenges related to depression and women’s health.
 
 My work follows two interconnected strands.
 
@@ -117,18 +117,15 @@ Inspired by the transformative power of science and technology in expanding educ
 </div>
 
 # 📝 Research 
-My research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotions like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
 My ongoing projects center on Human–AI Interaction (HAII), investigating both people's use and perceptions of AI applications and their corresponding impacts, as well as leveraging AI-based design to examine its effects on engagement across multiple contexts, including health and science/education communication.
 
-🔛🔛***Primary Ongoing Projects***
+🔛🔛***Current Paper Under Review***
 
-**1. AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JA 2026</div><img src='images/Journalism Studies.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JS 2026</div><img src='images/Journalism Studies.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AI-Driven Journalism Innovations
+**1. AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
 
 **Donghan Fu** (Corresponding author)
 
@@ -137,12 +134,11 @@ AI-Driven Journalism Innovations
 </div>
 </div>
 
-**2. How Non-STEM Learners Experience Cleanroom Fabrication through Virtual Reality** (lead author with an interdisciplinary team from Mizzou spanning Engineering, Electrical Engineering and Computer Science; under review at the *26th IEEE International Conference on Advanced Learning Technologies [ICALT 2026]*).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICALT 2026</div><img src='images/ICALT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Journalism Students' Immersive VR Experience
+**2. How Non-STEM Learners Experience Cleanroom Fabrication through Virtual Reality** (lead author with an interdisciplinary team from Mizzou spanning Engineering, Electrical Engineering and Computer Science; under review at the *26th IEEE International Conference on Advanced Learning Technologies [ICALT 2026]*).
 
 **Donghan Fu** (First author)
 
@@ -154,7 +150,7 @@ Journalism Students' Immersive VR Experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/digital journalism.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**3. Fake News Avoidance, News Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (Revise and Resubmission)
+**3. Misinformation Avoidance, Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (Revise and Resubmission)
 
 Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 
@@ -165,6 +161,8 @@ Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 </div>
 
 ✍️✍️***Selected Published Paper***
+
+Broadly, my research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotional experiences like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion, with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
 1️⃣ ***Digital Media and Health Communication***
 
