@@ -134,6 +134,8 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/Digital Journalism.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **2. Misinformation Avoidance, Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (co-leading with Shuang Song; Revised and Resubmitted at *Digital Journalism*, a top journal in the field of communication))
 
 Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
