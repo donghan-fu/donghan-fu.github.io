@@ -127,7 +127,7 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 
 **1. AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
 
-**Donghan Fu** (Corresponding author)
+**Donghan Fu**, *Journalism Studies*, 2026 (Corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and interaction. However, whether these innovations attract the public, and what factors count, are far from settled. This study explores the extent and key predictors of public interest in AI-driven innovations in personalized journalism across 34 countries worldwide (*N* = 53,799).
