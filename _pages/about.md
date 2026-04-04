@@ -134,13 +134,13 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 </div>
 </div>
 
-**2. Misinformation Avoidance, Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (Revise and Resubmission)
+**2. Misinformation Avoidance, Fatigue, and Perceived News Importance based on a Cross-National Public Service Media Model** (co-leading with Shuang Song; Revised and Resubmitted at *Digital Journalism*, a top journal in the field of communication))
 
 Shuang Song, **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 
 **Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - **Focus: Fatigue**
-- Fake news spreads rapidly through algorithms and social networks, while the sheer volume of content pushes audiences away from news, threatening democratic vitality. Yet these dynamics are rarely examined together. This study asks whether, and through which mechanisms, individuals detach from news in response to fake news. It tests a pathway from exposure to fake news to general news avoidance, with **news fatigue** as a mediator, perceived news importance as a moderator, and cross-national differences in public service media models as a macro-level contextual factor.
+- Misinformation spreads rapidly through algorithms and social networks, while the sheer volume of content pushes audiences away from news, threatening democratic vitality. Yet these dynamics are rarely examined together. This study asks whether individuals detach from news in response to fake news and, if so, through which mechanisms. It tests a pathway from exposure to fake news to general news avoidance, with **news fatigue** as a mediator, perceived news importance as a moderator, and cross-national differences in public service media models as a macro-level contextual factor.
 </div>
 </div>
 
