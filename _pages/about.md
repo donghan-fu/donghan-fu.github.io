@@ -222,6 +222,21 @@ Yiting Bai, **Donghan Fu**,& Lyn Van Swol, *Asian Journal of Social Psychology*,
 </div>
 </div>
 
+🔛🔛***WORKS IN PROGRESS***
+- **3D VR-Based Clinic Visit Training for Nursing Students**
+*Project overview*: We developed a series of AI conversational agents, each designed with distinct human-like personas to
+simulate realistic patient interactions. All conversations took place in a fully immersive virtual reality (VR) environment,
+with the goal of supporting nursing students’ clinic visit training through interactive, scenario-based practice.
+
+- **Immersive VR Lab Training Assisted by an AI Conversational Agent as Facilitator**
+*Project overview*: This study applies the latest VR technology to design a state-of-the-art engineering lab training session, the
+immersive virtual reality lab (iVRLab). Within this VR environment, we also developed an AI facilitator to answer students’
+questions and support their learning experience during lab-based training.
+
+- **CAVE VR for Meteorology Undergraduate Courses Scaffolded by AI Peer Students**
+*Project overview*: In this CAVE-based VR environment, undergraduate students learn meteorology concepts while interacting
+with an AI peer integrated into discussion sessions. The AI peer actively asks questions and participates in dialogue to
+scaffold peer-assisted learning and promote learning through teaching.
 
 # 💬 Teaching
 - ***2021.09*, Communication Theories, BNU (2021 Fall)**
