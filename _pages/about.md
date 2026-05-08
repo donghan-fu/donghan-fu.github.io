@@ -120,30 +120,6 @@ Inspired by the transformative power of science and technology in expanding educ
 
 My ongoing projects center on Human–AI Interaction (HAII), investigating both people's use and perceptions of AI applications and their corresponding impacts, as well as leveraging AI-based design to examine its effects on engagement across multiple contexts, including health and science/education communication.
 
-🔛🔛***Current Paper Under Review***
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JS 2026</div><img src='images/Journalism Studies.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**1. AI-Driven Journalism Innovations for Personalization** (co-leading with Shuang Song; revise-and-resubmit at *Journalism Studies*, a top journal in the field of communication).
-
-**Donghan Fu**, *Journalism Studies*, 2026 (Corresponding author)
-
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- AI-driven personalization, a global journalism innovation to tailor news provision to individualized needs, has progressively permeated newswork operations. However, whether these innovations attract the public and which factors count are far from settled. This study explores the extent and key predictors of public interest in AI-driven innovations in personalized journalism across 34 countries worldwide.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJ 2026</div><img src='images/DJ.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**2. Misinformation Avoidance, Fatigue, and Perceived News Importance** (co-leading with Shuang Song; Revised and Resubmitted at *Digital Journalism*, a top journal in the field of communication))
-
-**Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
-
-</div>
-</div>
-
 ✍️✍️***Selected Published Paper***
 
 Broadly, my research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotional experiences like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion, with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
