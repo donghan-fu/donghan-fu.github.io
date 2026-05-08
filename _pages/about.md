@@ -141,8 +141,6 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 
 **Donghan Fu**, *Digital Journalism*, 2026 (Corresponding author)
 
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 </div>
 </div>
 
