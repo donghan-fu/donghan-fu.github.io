@@ -51,7 +51,7 @@ In my spare time, I love snowboarding🏂🏻 and dream of visiting and riding a
 </div>
 
 # 🔥 News
-- *2026.07*: The paper that I co-led, "Time2Reflect: A Multi-Agent AI System for Scaffolded Post-Class Reflection in STEM Graduate Education," was accepted by the 2026 Association for Library and Information Science Education (2026 ALISE).
+- *2026.07*: The paper that I co-led, *"Time2Reflect: A Multi-Agent AI System for Scaffolded Post-Class Reflection in STEM Graduate Education,"* was accepted by the 2026 Association for Library and Information Science Education (2026 ALISE).
 - *2026.07*: 📋📋 My paper was accepted by the 112th National Communication Association (NCA), and I will attend it in Nov in New Orleans!
 - *2026.06*: 🎉🎉 My co-authored paper on "digital illness narrative of young adults with diabetes on Chinese social media" was published online in the [*Journal of Medical Internet Research*](https://www.jmir.org/2026/1/e96543/)! This project builds on my continuing interest in illness management and health promotion.
 - *2026.05*: 🎉🎉 My co-authored paper on "Public Interest in Generative AI-Driven Journalism Innovations for Personalization" was finally published online in [*Journalism Studies*](https://www-tandfonline-com.proxy.mul.missouri.edu/doi/full/10.1080/1461670X.2026.2686734).
