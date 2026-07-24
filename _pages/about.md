@@ -129,6 +129,18 @@ Broadly, my research sits at the intersection of social psychology and digital m
 
 1️⃣ ***Digital Media and Health Communication***
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMIR 2026</div><img src='images/JMIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Digital Illness Narratives of Young Chinese Adults With Diabetes on RedNote](https://www.jmir.org/2026/1/e96543/)
+
+Zikun Liu,**Donghan Fu**,Yingjie Liu,& Ying Meng , *Journal of Medical Internet Research*, 2026
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This study examines how young Chinese individuals with diabetes construct illness narratives and negotiate identity in digital environments. This study uses a narrative analysis approach, combining inductive thematic coding with culturally and critically informed interpretation. A total of 303 narrative posts were collected from RedNote, a Chinese social media platform characterized by diary-like user-generated content. The dataset includes both text-based and video-based posts, capturing longitudinal and first-person accounts of living with diabetes.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJC 2025</div><img src='images/depression.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
