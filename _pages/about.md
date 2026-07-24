@@ -244,6 +244,11 @@ questions and support their learning experience during lab-based training.
 with an AI peer integrated into discussion sessions. The AI peer actively asks questions and participates in dialogue to
 scaffold peer-assisted learning and promote learning through teaching.
 
+# 💟 Service
+- Peer Reviewer for *Information, Communication & Society*, *Journal of Broadcasting & Electronic Media*, *Frontiers in Psychology*, 
+*International Journal of Urban Sciences*.
+- Peer Reviewer for the International Communication Association (ICA) and the National Communication Association (NCA).
+
 # 💬 Teaching
 - ***2021.09*, Communication Theories, BNU (2021 Fall)**
 
