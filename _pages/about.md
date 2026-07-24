@@ -127,7 +127,20 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 
 Broadly, my research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotional experiences like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion, with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
-1️⃣ ***Digital Media and Health Communication***
+1️⃣ ***Human-AI Interaction**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JS 2026</div><img src='images/JS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Public Interest in Generative AI-Driven Journalism Innovations for Personalization](https://www-tandfonline-com.proxy.mul.missouri.edu/doi/full/10.1080/1461670X.2026.2686734)
+
+Shuang Song,**Donghan Fu***, *Journalism Studies*, 2026
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Personalization driven by generative artificial intelligence (GenAI) has progressively permeated newswork operations, encompassing news content generation, presentation, distribution, and communicative interaction across four aspects. However, whether these innovations attract the public and what factors count are far from settled. Utilizing cross-national data from the Digital News Report (2025) and the AI Governance International Evaluation Index (2025), this study explores the extent and key predictors of public interest in GenAI-driven journalism innovations for personalization across 34 countries worldwide (N = 54,799). Results show that public interest is moderate overall, with GenAI-driven news summaries being the most favored. At the individual level, news consumption patterns, both active news seeking and incidental news exposure, emerge as positive determinants. At the societal level, AI governance capacity matters more than AI infrastructural transparency, as it operates not only as a direct predictor but also as a contextual condition that amplifies or mitigates the effect that news use patterns have on people’s enthusiasm.
+</div>
+</div>
+
+2️⃣ ***Digital Media and Health Communication***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMIR 2026</div><img src='images/JMIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,7 +194,7 @@ This study conducted a cross-sectional survey assessing GDA use motivations alon
 </div>
 </div>
 
-2️⃣ ***Emotions in Digital Interaction***
+3️⃣ ***Emotions in Digital Interaction***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">I&S 2026</div><img src='images/issues & studies.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
