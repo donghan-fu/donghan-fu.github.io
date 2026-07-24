@@ -127,7 +127,7 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 
 Broadly, my research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotional experiences like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion, with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
-1️⃣ ***Human-AI Interaction**
+1️⃣ ***Human-AI Interaction***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JS 2026</div><img src='images/JS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
