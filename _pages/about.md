@@ -130,6 +130,7 @@ My ongoing projects center on Human–AI Interaction (HAII), investigating both 
 Broadly, my research sits at the intersection of social psychology and digital media. I examine how discrete emotions, such as anxiety and fear, as well as higher-order emotional experiences like feeling moved and fatigue, shape information practices on social platforms and the social outcomes that follow. I also study health promotion, with a focus on diabetes and mental health, including depression and experiences of psychological emptiness.
 
 1️⃣ ***Human-AI Interaction***
+- GenAI in Journalism
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JS 2026</div><img src='images/Journalism Studies.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -250,14 +251,10 @@ scaffold peer-assisted learning and promote learning through teaching.
 *International Journal of Urban Sciences*.
 - Peer Reviewer for the International Communication Association (ICA) and the National Communication Association (NCA).
 
-# 💬 Teaching
-- ***2021.09*, Communication Theories, BNU (2021 Fall)**
+# 💬 Teaching Assistant Experience
+- ***2026.08*, Inquiry into Transforming Learning with Technology (ISLT 2300), University of Missouri (2026 Fall)**
 
-- *Collaborated with the professor to develop 12 seminar topics and curated reading material lists*
-
-- *Led two discussions on Media Psychology, enhancing group engagement and participation*
-
-- *Graded student performance based on discussion contributions and two paper submissions*
+# 💬 High School Teacher Internship
 - ***2017.07-2018.04*, High School Chemistry, Wuhan University Affiliated High School (2017 Fall-2018 Spring)**
 
 - *Taught Chemistry to three classes of 11th-grade students*
