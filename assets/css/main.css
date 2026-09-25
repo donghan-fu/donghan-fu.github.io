@@ -6,20 +6,21 @@
    ============================================================ */
 
 :root {
-  /* Paper & ink · refined for depth and warmth */
-  --paper:      #f3f6fb;   /* pale blue-white, slightly warmer */
-  --paper-2:    #e8eef6;
-  --paper-3:    #ffffff;
-  --ink:        #141a26;   /* deeper, slightly warm */
-  --ink-2:      #2b3348;
-  --ink-mute:   #5f6883;   /* cooler mute for hierarchy */
-  --rule:       #cbd5e4;   /* clearer rule */
-  --rule-soft:  #e0e7f0;
-  --accent:     #164272;   /* deep prussian navy — richer than mid-blue */
-  --accent-2:   #2d6ba3;   /* hover blue */
+  /* Paper & ink · Mizzou-inspired warm cream + deep ink */
+  --paper:      #f5eeda;   /* warm ivory cream (Mizzou-adjacent) */
+  --paper-2:    #ede2c4;   /* deeper cream for subtle contrast */
+  --paper-3:    #fefaf1;   /* off-white cards, still warm */
+  --ink:        #1a1611;   /* warm near-black (Mizzou black) */
+  --ink-2:      #3a3429;   /* warm ink for body */
+  --ink-mute:   #7d7361;   /* warm mute */
+  --rule:       #d8caa5;   /* warm rule */
+  --rule-soft:  #e6dcbe;
+  --accent:     #163a5c;   /* deep prussian navy, kept for interactivity */
+  --accent-2:   #2f6296;   /* hover blue */
   --accent-warm:#a05a2c;
-  --gold:       #a17931;   /* antique gold, used sparingly for ornaments */
-  --gold-soft:  #c7a35c;   /* lighter gold for hover / secondary */
+  --gold:       #c69214;   /* Mizzou gold (refined, not too sports-y) */
+  --gold-soft:  #e3b849;   /* lighter Mizzou gold */
+  --gold-deep:  #8f6a0e;   /* deep gold for text on cream */
 
   /* Type */
   --sans:    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -39,19 +40,20 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --paper:    #0f1522;
-    --paper-2:  #1a2233;
-    --paper-3:  #202b40;
-    --ink:      #eef2f8;
-    --ink-2:    #c9d2e1;
-    --ink-mute: #8b95a8;
-    --rule:     #2b3549;
-    --rule-soft:#232e42;
-    --accent:   #7fb0d9;
-    --accent-2: #a4c6e0;
+    --paper:    #17130c;
+    --paper-2:  #211c14;
+    --paper-3:  #2a231a;
+    --ink:      #f5ecd7;
+    --ink-2:    #d8ceb5;
+    --ink-mute: #98907c;
+    --rule:     #3d3427;
+    --rule-soft:#2c2620;
+    --accent:   #8fb5d6;
+    --accent-2: #b0cbe1;
     --accent-warm:#e3a373;
-    --gold:     #d1a656;
-    --gold-soft:#e6c98a;
+    --gold:     #e3b849;
+    --gold-soft:#f0d17a;
+    --gold-deep:#c69214;
   }
 }
 
@@ -283,6 +285,38 @@ strong, b { font-weight: 600; color: var(--ink); }
   max-width: 32rem;
   margin: 0 0 1.4rem;
   line-height: 1.65;
+  padding-top: .2rem;
+}
+/* Mizzou logo badge -- inline with the affiliation line */
+.mu-badge {
+  display: inline-block;
+  height: 1.9em;
+  width: auto;
+  vertical-align: -0.55em;
+  margin: 0 .55em .1em 0;
+  padding: 3px 6px;
+  background: var(--paper-3);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(20,15,5,.08);
+  mix-blend-mode: multiply; /* removes any residual white bg on cream */
+}
+
+/* Fixed watermark -- ghosted Mizzou mark bottom-right of viewport */
+.mizzou-watermark {
+  position: fixed;
+  right: 1.4rem;
+  bottom: 1.4rem;
+  width: 96px;
+  height: auto;
+  opacity: .10;
+  z-index: 0;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  filter: grayscale(30%);
+}
+@media (max-width: 700px) {
+  .mizzou-watermark { width: 64px; opacity: .07; right: .8rem; bottom: 5rem; }
 }
 .cover-cv { margin: 0; }
 .cv-pill {
@@ -454,7 +488,7 @@ strong, b { font-weight: 600; color: var(--ink); }
   padding: 1.8rem 0 1.5rem;
   border-bottom: 1px solid var(--rule);
 }
-/* Two small L-shaped corner ornaments in antique gold */
+/* Two small L-shaped corner marks in refined gold */
 .chapter-head::before,
 .chapter-head::after {
   content: "";
@@ -463,6 +497,7 @@ strong, b { font-weight: 600; color: var(--ink); }
   width: 22px;
   height: 22px;
   border: 1.5px solid var(--gold);
+  pointer-events: none;
 }
 .chapter-head::before {
   left: 0;
@@ -487,22 +522,13 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .ch-mark {
   background: var(--ink);
-  color: var(--paper-3);
+  color: var(--gold-soft);
   padding: .18rem .55rem;
   border-radius: 3px;
   letter-spacing: .04em;
-  font-weight: 500;
+  font-weight: 600;
   border: 1px solid var(--ink);
   position: relative;
-}
-.ch-mark::after {
-  content: "";
-  position: absolute;
-  left: 3px; right: 3px;
-  bottom: 2px;
-  height: 1px;
-  background: var(--gold-soft);
-  opacity: .8;
 }
 .chapter-title {
   font-family: var(--serif);
@@ -552,14 +578,14 @@ strong, b { font-weight: 600; color: var(--ink); }
 /* Drop cap on the opening paragraph of the About chapter */
 .page[data-route="/about"] .prose:first-of-type > p:first-child::first-letter {
   font-family: var(--serif);
-  font-weight: 500;
+  font-weight: 600;
   font-style: italic;
-  font-size: 4.2rem;
+  font-size: 4.4rem;
   float: left;
   line-height: .88;
   padding: .35rem .55rem 0 0;
-  color: var(--accent);
-  text-shadow: 1px 1px 0 var(--gold-soft);
+  color: var(--gold-deep);
+  text-shadow: 2px 2px 0 var(--paper-2);
 }
 .prose p:last-child { margin-bottom: 0; }
 .prose em { color: var(--accent); font-weight: 500; font-style: normal; }
@@ -575,16 +601,19 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .strand-card {
   background: var(--paper-3);
-  border: 1px solid var(--rule);
-  border-radius: var(--radius);
-  padding: 1.6rem 1.7rem;
+  border: 1px solid var(--ink);
+  border-radius: 2px;
+  padding: 1.7rem 1.8rem 1.6rem;
   position: relative;
   transition: box-shadow .18s ease, transform .18s ease;
+  /* Double-frame effect: a thin gold outline offset 4px inside */
+  outline: 1px solid var(--gold);
+  outline-offset: -6px;
 }
 .strand-card:hover {
   box-shadow: var(--shadow-md);
   transform: translateY(-2px);
-  border-color: var(--accent-2);
+  outline-color: var(--accent);
 }
 .strand-card-num {
   position: absolute;
@@ -691,9 +720,13 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .plate img {
   width: 100%;
-  border-radius: var(--radius);
-  border: 1px solid var(--rule);
+  border-radius: 2px;
+  border: 1px solid var(--ink);
+  outline: 1px solid var(--gold);
+  outline-offset: -5px;
   box-shadow: var(--shadow-sm);
+  padding: 4px;
+  background: var(--paper-3);
 }
 .plate.small { max-width: 30rem; margin-left: auto; margin-right: auto; }
 .plate figcaption {
@@ -753,11 +786,26 @@ strong, b { font-weight: 600; color: var(--ink); }
   display: grid;
   grid-template-columns: 3.5rem 8rem 1fr;
   gap: 1.4rem;
-  padding: 1.2rem 0;
-  border-bottom: 1px solid var(--rule-soft);
+  padding: 1.4rem 0;
   align-items: baseline;
+  position: relative;
 }
-.news-item:last-child { border-bottom: none; }
+/* Editorial dotted rule between items, with a centered gold diamond */
+.news-item + .news-item {
+  border-top: 1px dotted var(--rule);
+}
+.news-item + .news-item::before {
+  content: "◆";
+  position: absolute;
+  left: 50%;
+  top: -0.55rem;
+  transform: translateX(-50%);
+  color: var(--gold);
+  background: var(--paper);
+  padding: 0 .5rem;
+  font-size: .5rem;
+  line-height: 1;
+}
 
 .news-date {
   font-family: var(--mono);
@@ -1211,11 +1259,25 @@ strong, b { font-weight: 600; color: var(--ink); }
   display: grid;
   grid-template-columns: 4.5rem 1fr;
   gap: 1.4rem;
-  padding: 1.3rem 0;
-  border-bottom: 1px solid var(--rule-soft);
+  padding: 1.5rem 0;
   align-items: baseline;
+  position: relative;
 }
-.pub-list li:last-child { border-bottom: none; }
+.pub-list li + li {
+  border-top: 1px dotted var(--rule);
+}
+.pub-list li + li::before {
+  content: "◆";
+  position: absolute;
+  left: 50%;
+  top: -0.55rem;
+  transform: translateX(-50%);
+  color: var(--gold);
+  background: var(--paper);
+  padding: 0 .5rem;
+  font-size: .5rem;
+  line-height: 1;
+}
 .pub-year {
   font-family: var(--mono);
   font-size: .82rem;
@@ -1323,28 +1385,30 @@ strong, b { font-weight: 600; color: var(--ink); }
   align-items: center;
   justify-content: center;
   gap: .85rem;
-  padding: 1.8rem 1rem;
+  padding: 1.9rem 1rem 1.7rem;
   background: var(--paper-3);
-  border: 1px solid var(--rule);
-  border-radius: var(--radius);
+  border: 1px solid var(--ink);
+  border-radius: 2px;
   color: var(--ink);
   text-align: center;
-  border-bottom: 1px solid var(--rule);
-  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, color .18s ease;
+  /* Inset double-frame effect */
+  outline: 1px solid var(--gold);
+  outline-offset: -6px;
+  transition: transform .18s ease, box-shadow .18s ease, outline-color .18s ease, color .18s ease;
 }
 .contact-card:hover {
   transform: translateY(-3px);
   box-shadow: var(--shadow-md);
-  border-color: var(--accent);
+  outline-color: var(--accent);
   color: var(--accent);
 }
 .contact-icon {
   font-size: 2rem;
-  color: var(--accent);
-  transition: transform .2s ease;
+  color: var(--gold-deep);
+  transition: transform .2s ease, color .2s ease;
   line-height: 1;
 }
-.contact-card:hover .contact-icon { transform: scale(1.08); }
+.contact-card:hover .contact-icon { transform: scale(1.08); color: var(--accent); }
 .contact-name {
   font-family: var(--serif);
   font-size: 1rem;

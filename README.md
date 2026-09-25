@@ -71,21 +71,22 @@ git push -u origin main
 4. Save. Pages will build; your site appears at
    `https://<username>.github.io/` in a minute.
 
-### 3 · Enable Scholar auto-update (already configured)
+### 3 · Scholar stats update (manual)
 
-The workflow `.github/workflows/update-scholar.yml` runs daily at 03:15 UTC.
+Google Scholar aggressively rate-limits GitHub Actions runner IPs, so the
+site's citation JSON is now updated **manually from a local machine** instead
+of a scheduled workflow.
 
-1. Go to **Settings → Actions → General**.
-2. Under **Workflow permissions**, select **Read and write permissions**. Save.
-3. Go to the **Actions** tab, find **"Update Google Scholar stats"**, click
-   **Run workflow → Run workflow** to trigger the first run manually.
-4. After ~1 minute it commits an updated `assets/data/scholar-stats.json`. Your
-   site will show the fresh numbers.
+To refresh `assets/data/scholar-stats.json`:
 
-**Optional — avoid Google Scholar rate limits:**
-Sign up for a free ScraperAPI key at https://www.scraperapi.com/ (5,000 free
-requests/month). In **Settings → Secrets and variables → Actions**, add a
-repository secret named `SCRAPER_API_KEY` with the value.
+```bash
+cd site
+pip install scholarly 'bibtexparser<2'
+python3 scripts/fetch_scholar.py
+git add assets/data/scholar-stats.json
+git commit -m "Update Scholar stats"
+git push
+```
 
 ### 4 · Custom domain
 
