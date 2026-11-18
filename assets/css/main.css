@@ -708,6 +708,37 @@ strong, b { font-weight: 600; color: var(--ink); }
   text-wrap: pretty;
 }
 
+/* Two-column layout: text on left, framed media on right */
+.strand-page-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 20rem);
+  gap: 2.4rem;
+  align-items: start;
+}
+.strand-page-text { min-width: 0; }
+.strand-page-media {
+  margin: 0;
+  padding: 4px;
+  background: var(--paper-3);
+  border: 1px solid var(--ink);
+  outline: 1px solid var(--gold);
+  outline-offset: -5px;
+  box-shadow: var(--shadow-sm);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.strand-page-media img,
+.strand-page-media video {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1px;
+}
+@media (max-width: 760px) {
+  .strand-page-grid { grid-template-columns: 1fr; gap: 1.6rem; }
+  .strand-page-media { max-width: 22rem; margin: 0 auto; }
+}
+
 /* Vertical "push" transition — new page rises from below, old slides out */
 .strand-page.slide-in-right {
   animation: strandPushUp .55s cubic-bezier(.2,.7,.2,1) both;
