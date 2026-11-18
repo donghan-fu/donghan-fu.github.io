@@ -721,8 +721,10 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .strand-page-text { min-width: 0; }
 .strand-page-media {
+  box-sizing: border-box;
   margin: 2.4rem 0 0;
   padding: 4px;
+  max-width: 100%;
   background: var(--paper-3);
   border: 1px solid var(--ink);
   outline: 1px solid var(--gold);
@@ -741,10 +743,23 @@ strong, b { font-weight: 600; color: var(--ink); }
 @media (max-width: 760px) {
   .strand-page-grid,
   .strand-page[data-slide="strand-02"] .strand-page-grid {
-    grid-template-columns: 1fr;
-    gap: 1.6rem;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.4rem;
   }
-  .strand-page-media { max-width: 22rem; margin: 1.4rem auto 0; }
+  .strand-page-text { padding: 0; }
+  .strand-page-title { font-size: 1.25rem; margin-bottom: .7rem; }
+  .strand-page-body { font-size: .96rem; line-height: 1.65; }
+  .strand-page-media {
+    width: 100%;
+    max-width: 18rem;
+    margin: 1.6rem auto 0;
+    padding: 3px;
+  }
+  .strand-page-media video,
+  .strand-page-media img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 /* Vertical "push" transition — new page rises from below, old slides out */
