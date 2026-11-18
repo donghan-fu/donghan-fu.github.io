@@ -718,11 +718,10 @@ strong, b { font-weight: 600; color: var(--ink); }
 /* Strand II demo is landscape, give it more room to breathe */
 .strand-page[data-slide="strand-02"] .strand-page-grid {
   grid-template-columns: minmax(0, 1fr) minmax(0, 28rem);
-  align-items: center;
 }
 .strand-page-text { min-width: 0; }
 .strand-page-media {
-  margin: 0;
+  margin: 2.4rem 0 0;
   padding: 4px;
   background: var(--paper-3);
   border: 1px solid var(--ink);
