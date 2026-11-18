@@ -305,9 +305,9 @@ strong, b { font-weight: 600; color: var(--ink); }
 /* Fixed watermark — Mizzou mark presented as a small bookplate seal */
 .mizzou-mark {
   position: fixed;
-  right: 1.8rem;
-  bottom: 1.8rem;
-  width: 170px;
+  right: 1.4rem;
+  bottom: 1.4rem;
+  width: 140px;
   z-index: 0;
   pointer-events: none;
   opacity: .22;
@@ -316,8 +316,8 @@ strong, b { font-weight: 600; color: var(--ink); }
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: .55rem;
-  padding: 1rem 1rem 1rem;
+  gap: .25rem;
+  padding: .5rem .8rem .5rem;
   /* Twin thin frames in gold — upper and lower only, like a bookplate */
   border-top: 1px solid var(--gold);
   border-bottom: 1px solid var(--gold);
