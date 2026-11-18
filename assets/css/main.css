@@ -484,60 +484,56 @@ strong, b { font-weight: 600; color: var(--ink); }
 
 .chapter-head {
   position: relative;
-  margin-bottom: 3rem;
-  padding: 1.8rem 0 1.5rem;
+  margin-bottom: 2.5rem;
+  padding: 1.2rem 0 1.4rem;
   border-bottom: 1px solid var(--rule);
 }
-/* Two small L-shaped corner marks in refined gold */
-.chapter-head::before,
-.chapter-head::after {
+/* A single short gold accent rule above the overline */
+.chapter-head::before {
   content: "";
   position: absolute;
   top: 0;
-  width: 22px;
-  height: 22px;
-  border: 1.5px solid var(--gold);
-  pointer-events: none;
-}
-.chapter-head::before {
   left: 0;
-  border-right: none;
-  border-bottom: none;
-}
-.chapter-head::after {
-  right: 0;
-  border-left: none;
-  border-bottom: none;
+  width: 40px;
+  height: 2px;
+  background: var(--gold);
+  pointer-events: none;
 }
 .chapter-overline {
   font-family: var(--mono);
-  font-size: .74rem;
-  letter-spacing: .16em;
+  font-size: .7rem;
+  letter-spacing: .18em;
   text-transform: uppercase;
   color: var(--ink-mute);
-  margin: 0 0 1.2rem;
+  margin: 0 0 1rem;
   display: flex;
   align-items: center;
-  gap: .8rem;
+  gap: .7rem;
 }
 .ch-mark {
-  background: var(--ink);
-  color: var(--gold-soft);
-  padding: .18rem .55rem;
-  border-radius: 3px;
-  letter-spacing: .04em;
+  color: var(--gold);
+  padding: 0;
+  border-radius: 0;
+  letter-spacing: .08em;
   font-weight: 600;
-  border: 1px solid var(--ink);
+  background: transparent;
+  border: none;
   position: relative;
+}
+.ch-mark::after {
+  content: "·";
+  margin-left: .7rem;
+  color: var(--ink-mute);
+  opacity: .6;
 }
 .chapter-title {
   font-family: var(--serif);
-  font-weight: 600;
-  font-size: clamp(2.2rem, 5vw, 3.6rem);
-  line-height: 1.1;
-  letter-spacing: -.01em;
+  font-weight: 500;
+  font-size: clamp(1.9rem, 3.4vw, 2.6rem);
+  line-height: 1.15;
+  letter-spacing: -.012em;
   color: var(--ink);
-  margin: 0 0 .8rem;
+  margin: 0 0 .7rem;
 }
 .chapter-dek {
   font-family: var(--sans);
@@ -591,54 +587,121 @@ strong, b { font-weight: 600; color: var(--ink); }
 .prose em { color: var(--accent); font-weight: 500; font-style: normal; }
 .prose a { color: var(--accent); }
 
-/* --- Two strand cards (About) --- */
-.strand-cards {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-  margin: 2rem 0 2.4rem;
+/* --- About · Strand flipbook (one page at a time, push transition) --- */
+.strand-flip {
+  margin: 2.6rem 0 2.8rem;
   max-width: none;
-}
-.strand-card {
-  background: var(--paper-3);
-  border: 1px solid var(--ink);
-  border-radius: 2px;
-  padding: 1.7rem 1.8rem 1.6rem;
   position: relative;
-  transition: box-shadow .18s ease, transform .18s ease;
-  /* Double-frame effect: a thin gold outline offset 4px inside */
-  outline: 1px solid var(--gold);
-  outline-offset: -6px;
 }
-.strand-card:hover {
-  box-shadow: var(--shadow-md);
-  transform: translateY(-2px);
-  outline-color: var(--accent);
+.strand-flip-lede {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.02rem;
+  color: var(--ink-mute);
+  margin: 0 0 1.2rem;
+  letter-spacing: -.005em;
 }
-.strand-card-num {
-  position: absolute;
-  top: 1rem;
-  right: 1.2rem;
+.strand-flip-nav {
+  border-bottom: 1px solid var(--rule);
+  gap: 2.2rem;
+  padding-bottom: .9rem;
+  margin-bottom: 0;
+}
+.strand-flip-nav .sub-tab {
+  padding: 0 0 .6rem;
+  align-items: baseline;
+  gap: .55rem;
+}
+.strand-flip-nav .sub-tab-name {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: -.005em;
+  text-transform: none;
+  color: var(--ink-mute);
+  transition: color .2s ease;
+}
+.strand-flip-nav .sub-tab:hover .sub-tab-name,
+.strand-flip-nav .sub-tab.active .sub-tab-name { color: var(--ink); }
+
+.strand-flip-slides {
+  min-height: 11rem;
+  overflow: hidden;
+  padding: 2.2rem 0 .6rem;
+}
+.strand-page {
+  padding: 0;
+}
+.strand-page-eyebrow {
   font-family: var(--mono);
-  font-size: .78rem;
-  color: var(--accent);
-  letter-spacing: .08em;
+  font-size: .68rem;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 .8rem;
   font-weight: 500;
 }
-.strand-card h3 {
+.strand-page-title {
   font-family: var(--serif);
-  font-weight: 600;
-  font-size: 1.15rem;
+  font-weight: 500;
+  font-size: clamp(1.35rem, 2.2vw, 1.7rem);
   color: var(--ink);
-  margin: 0 0 .55rem;
-  padding-right: 2rem;
-  line-height: 1.35;
+  margin: 0 0 1rem;
+  line-height: 1.25;
+  letter-spacing: -.01em;
 }
-.strand-card p {
-  margin: 0;
-  font-size: .93rem;
+.strand-page-body {
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.7;
   color: var(--ink-2);
-  line-height: 1.6;
+  margin: 0;
+  max-width: 44rem;
+  text-wrap: pretty;
+}
+
+/* Vertical "push" transition — new page rises from below, old slides out */
+.strand-page.slide-in-right {
+  animation: strandPushUp .55s cubic-bezier(.2,.7,.2,1) both;
+}
+.strand-page.slide-in-left {
+  animation: strandPushDown .55s cubic-bezier(.2,.7,.2,1) both;
+}
+@keyframes strandPushUp {
+  from { opacity: 0; transform: translateY(26px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes strandPushDown {
+  from { opacity: 0; transform: translateY(-26px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.strand-flip-arrows {
+  margin-top: 1.2rem;
+  padding-top: .9rem;
+  border-top: none;
+}
+
+/* --- Ornamental bridge between a section and the Motto --- */
+.section-bridge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin: 3.2rem auto 1.2rem;
+  max-width: 28rem;
+}
+.section-bridge .bridge-rule {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, var(--rule) 50%, transparent 100%);
+}
+.section-bridge .bridge-mark {
+  font-family: var(--serif);
+  color: var(--gold);
+  font-size: 1.1rem;
+  line-height: 1;
+  opacity: .85;
 }
 
 /* --- Motto : typographic treatment, no box --- */
@@ -760,13 +823,12 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .year-num {
   font-family: var(--serif);
-  font-style: italic;
   font-weight: 500;
-  font-size: clamp(3rem, 6.5vw, 4.6rem);
-  line-height: .9;
+  font-size: clamp(1.35rem, 1.9vw, 1.75rem);
+  line-height: 1.1;
   color: var(--ink);
   margin: 0;
-  letter-spacing: -.02em;
+  letter-spacing: .01em;
 }
 .year-count {
   font-family: var(--mono);
@@ -904,10 +966,10 @@ strong, b { font-weight: 600; color: var(--ink); }
   font-family: var(--serif);
   font-style: italic;
   font-weight: 500;
-  font-size: clamp(3.6rem, 8vw, 5.6rem);
-  line-height: .9;
+  font-size: clamp(1.7rem, 2.4vw, 2.1rem);
+  line-height: 1;
   color: var(--accent);
-  letter-spacing: -.02em;
+  letter-spacing: .01em;
 }
 .phase-line {
   display: block;
@@ -1078,13 +1140,12 @@ strong, b { font-weight: 600; color: var(--ink); }
   margin: 0 0 .8rem;
 }
 .wip-numeral {
-  font-family: var(--serif);
-  font-style: italic;
+  font-family: var(--mono);
   font-weight: 500;
-  font-size: clamp(2.4rem, 5vw, 3.4rem);
-  line-height: .9;
+  font-size: .78rem;
+  line-height: 1;
   color: var(--accent);
-  letter-spacing: -.02em;
+  letter-spacing: .12em;
 }
 .wip-line {
   display: block;
@@ -1366,6 +1427,7 @@ strong, b { font-weight: 600; color: var(--ink); }
   left: 0;
   color: var(--accent);
 }
+.hangs + .hang-lead { margin-top: 1.6rem; }
 
 /* ============================================================
    CONTACT · dl
@@ -1505,7 +1567,8 @@ strong, b { font-weight: 600; color: var(--ink); }
     max-width: 18rem;
   }
   .toc-list { grid-template-columns: 1fr; column-gap: 0; }
-  .strand-cards { grid-template-columns: 1fr; }
+  .strand-flip-nav { gap: 1.4rem; flex-wrap: wrap; }
+  .strand-flip-nav .sub-tab-name { font-size: .95rem; }
 }
 
 @media (max-width: 700px) {

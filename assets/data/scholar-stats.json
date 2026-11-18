@@ -2,8 +2,8 @@
   "user_id": "MIEcV3oAAAAJ",
   "name": "Donghan Fu",
   "affiliation": "School of Information Science and Learning Technologies, University of Missouri-Columbia",
-  "citedby": 20,
-  "citedby_5y": 19,
+  "citedby": 22,
+  "citedby_5y": 21,
   "hindex": 3,
   "hindex_5y": 3,
   "i10index": 0,
@@ -38,7 +38,7 @@
       "year": "2026",
       "author": "",
       "venue": "Journal of Medical Internet Research 28, e96543, 2026",
-      "citedby": 1,
+      "citedby": 2,
       "url": "MIEcV3oAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -46,7 +46,7 @@
       "year": "2025",
       "author": "",
       "venue": "Asian Journal of Communication, 1-19, 2025",
-      "citedby": 1,
+      "citedby": 2,
       "url": "MIEcV3oAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -66,5 +66,5 @@
       "url": "MIEcV3oAAAAJ:_FxGoFyzp5QC"
     }
   ],
-  "updated": "2026-09-25T17:20:56.878146+00:00"
+  "updated": "2026-11-18T04:36:33.641747+00:00"
 }
