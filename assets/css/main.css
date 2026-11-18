@@ -853,7 +853,8 @@ strong, b { font-weight: 600; color: var(--ink); }
 .plate-trio {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1.1rem;
+  align-items: start;
+  gap: 1.2rem;
   margin: 2.4rem auto;
   max-width: 44rem;
 }
@@ -863,8 +864,7 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .plate-tri img {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  height: auto;
   display: block;
   border-radius: 2px;
   border: 1px solid var(--ink);
@@ -884,7 +884,6 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 @media (max-width: 700px) {
   .plate-trio { grid-template-columns: 1fr; gap: 1.6rem; max-width: 24rem; }
-  .plate-tri img { aspect-ratio: 4 / 3; }
   .plate-tri figcaption { font-size: .72rem; }
 }
 
