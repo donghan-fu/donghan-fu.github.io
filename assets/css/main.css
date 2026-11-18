@@ -739,8 +739,12 @@ strong, b { font-weight: 600; color: var(--ink); }
   border-radius: 1px;
 }
 @media (max-width: 760px) {
-  .strand-page-grid { grid-template-columns: 1fr; gap: 1.6rem; }
-  .strand-page-media { max-width: 22rem; margin: 0 auto; }
+  .strand-page-grid,
+  .strand-page[data-slide="strand-02"] .strand-page-grid {
+    grid-template-columns: 1fr;
+    gap: 1.6rem;
+  }
+  .strand-page-media { max-width: 22rem; margin: 1.4rem auto 0; }
 }
 
 /* Vertical "push" transition — new page rises from below, old slides out */
