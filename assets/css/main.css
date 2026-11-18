@@ -603,7 +603,7 @@ strong, b { font-weight: 600; color: var(--ink); }
 }
 .strand-flip-nav {
   border-bottom: 1px solid var(--rule);
-  gap: 2.2rem;
+  gap: 4.5rem;
   padding-bottom: .9rem;
   margin-bottom: 0;
 }
